@@ -1,0 +1,141 @@
+@media screen and (max-width: 1200px) {
+    .header{
+        width:100%;
+        min-height:1025px ;
+        background-image: url(./img/Path.png);
+        background-repeat: no-repeat;
+        background-position:right;
+        background-color:aquamarine;
+    }
+    .navsection{
+        width: 100%;
+        min-height: 60px;
+        display: flex;
+        background-color:transparent;
+        justify-content:space-around;
+        align-items: center;
+        text-align: center;
+         
+    }
+    .header-body{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .hero{
+        width: 70%; 
+        padding-left: 0px;
+    }
+    .hero h1 {
+        width: 100%;
+        text-align: center;
+
+    }
+    .hero p {
+        width: 100%;     
+        text-align: center;
+    }
+    .button2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+    .group{
+        width: 100%;
+        text-align: center;
+    }
+    .group img{
+        width: 100%;
+        text-align: center;
+    }
+    .main-content-1{
+        width: 100%;
+        min-height:772px ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .undraw img{
+        width: 100%;
+        margin-top: 0px;
+        margin-right: 0px;
+    }
+    .main-content-2{
+        width: 100%;
+        min-height: 400px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+        margin: 0px;
+    }
+    .text-bloc{
+        width: 70%;
+        min-height: 228px;
+        margin-right: 0px;
+        text-align: center;
+    }
+    .main-content-3{
+        width: 100%;
+        min-height: 569px;
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        text-align: center;
+    }
+    .happy-newss{
+        min-height: 315px;
+        width: 100%;
+        margin-left:0px;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    .main-content-4{
+        width: 100%;
+        min-height: 546px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+     }
+    .combind{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        gap: 40px;
+        margin-right: 0px;
+        margin-top: 100px;
+    }
+    .pricing{
+        width: 100%;
+        min-height:800px ;
+        background-image: url(./img/Rectangle.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .line {
+        height: 1px;
+        background-color:#CDD1D4;
+        text-align: center;
+        width:100%;
+        margin-left:0px ;
+     }
+     .footer{
+        margin-top: 0px;
+     }
+
+
+
+   
+}
